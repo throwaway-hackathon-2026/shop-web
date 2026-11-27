@@ -1,0 +1,14 @@
+{
+  "name": "shop-web",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minimist": "1.2.0",
+    "node-fetch": "2.6.0",
+    "decode-uri-component": "0.2.0"
+  }
+}
